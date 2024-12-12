@@ -63,7 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 - The creators of the MNIST dataset.
 - TensorFlow and Keras teams for providing excellent tools for neural network development.
-
-## Contact
-For any inquiries or suggestions, feel free to contact [your_email@example.com].
-
