@@ -51,7 +51,3 @@ The project demonstrates the effectiveness of neural networks in digit classific
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- The creators of the MNIST dataset.
-- TensorFlow and Keras teams for providing excellent tools for neural network development.
