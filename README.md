@@ -49,14 +49,6 @@ Ensure you have the following installed:
 ### Results
 The project demonstrates the effectiveness of neural networks in digit classification. It provides detailed performance metrics and visualizations for deeper insights.
 
-## Contributing
-Contributions are welcome! If you have ideas for improvement or additional features, please:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a Pull Request.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
