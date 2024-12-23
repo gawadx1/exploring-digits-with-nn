@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/abdullah-abdalgawwad/from-basics-to-brilliance
+   git clone https://github.com/gawadx1/from-basics-to-brilliance
    ```
 2. Navigate to the project directory:
    ```bash
